@@ -1,0 +1,2 @@
+## Sprint 4 - Análisis Estadístico
+El proyecto consiste en analizar datos de usuarios de una compañia de teléfonos en donde el objetivo principal es contrastar 2 hipótesis estadísticas respecto al gasto promedio entre los diferentes planes y diferentes zonas geográficas.
