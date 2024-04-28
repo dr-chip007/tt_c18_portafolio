@@ -17,6 +17,7 @@ Aprendemos librerias basicas de manejo de datos tales como:
 - Numpy
 
 ## Spring 3 - Data Wrangle
+Se añade (por completar)
 
 ## Spring 4 - Análisis Estadístico
 
