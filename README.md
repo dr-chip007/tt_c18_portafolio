@@ -17,7 +17,7 @@ Aprendemos librerias basicas de manejo de datos tales como:
 - Numpy
 
 ## Spring 3 - Data Wrangle
-Se añade (por completar)
+Aprendemos estadistica basica y graficos con matplotlib
 
 ## Spring 4 - Análisis Estadístico
 
